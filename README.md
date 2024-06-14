@@ -10,7 +10,15 @@ Macで動作するPythonのリーディングルーラー（文字読みの補�
 - tkinter　6.8
 
 ## Usage
+gitからクローン
+```
+git clone https://github.com/ClairdelunaEve/ReadingRuler.git
+```
+
 pythonプログラムとして実行
+```
+python ReadingRuler.py
+```
 
 ## Features
 - ウィンドウの大きさをいじると文字を読める部分も変わる
