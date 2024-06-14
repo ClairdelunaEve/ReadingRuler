@@ -17,6 +17,7 @@ git clone https://github.com/ClairdelunaEve/ReadingRuler.git
 
 pythonプログラムとして実行
 ```
+cd ReadingRuler
 python ReadingRuler.py
 ```
 
